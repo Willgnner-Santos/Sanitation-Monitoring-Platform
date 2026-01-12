@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # Smart Saneamento - Projeto Integrador
+
+Link do artigo: https://sol.sbc.org.br/index.php/eniac/article/view/38867
 
 Este é um projeto de análise e simulação de dados de saneamento desenvolvido para o curso de IA-2 do SENAI/FATESG, utilizando dados da SANEAGO.
 
@@ -117,7 +118,4 @@ Abra o arquivo `index.html` em um navegador ou sirva-o por um servidor web local
 
 Projeto desenvolvido pela Turma IA-2 do SENAI/FATESG utilizando dados da SANEAGO - Saneamento de Goiás S.A.
 
-=======
-# Sanitation-Monitoring-Platform
-Reprodutibilidade do artigo An Integrated Platform for Monitoring and Predictive Analysis to Support Decision-Making in Basic Sanitation
->>>>>>> 85b7a603b83e17c1f96daea0935beb6b55282fdc
+
